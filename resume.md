@@ -29,9 +29,8 @@
 
 - 熟练SVN的使用，了解git的基本使用。
 
-- 熟练掌握Jenkins的配置于应用。
+- 熟练掌握Jenkins的配置与应用。
 
-- 了解Docker
 
 
     
